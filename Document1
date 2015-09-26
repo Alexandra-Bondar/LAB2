@@ -1,0 +1,34 @@
+Requirements Document 
+1 Introduction
+The name of this application - chat. The project was created for communication between people. This product
+developed with JavaFX will be used to help communication between two or more persons.
+Also the project provides for the security of sobrannosti data. In this chat the whole data
+passed from computer to computer, bypassing the save on the server. In order to start chatting
+you only need to run the application and in the line of widawati message. The most important thing, 
+that every attempt be written off is triggered only once, and no one but your companion will not be able to read the dialogue
+because all messages are irretrievably deleted.
+
+2 User Requirements
+2.1 Software Interfaces
+Web application on JavaFX for operation systems Windows, Linux.
+
+2.2 User Interfaces
+This system interacts with the user using the connection via the port and IP-address.
+
+2.3 User Characteristics
+Proposed audience, able to read and write. It's designed for custom applications, 
+and for office workers.
+
+2.4 Assumptions and Dependencies
+This project requires no extra costs. The application will have a size of up to 100Mb. 
+
+3 System Requirements 
+3.1 Functional Requirements 
+- OS Windows/Linux
+- 100MB of RAM
+
+3.2 Non-Functional Requirements 
+3.2.1 Usability:
+In this chat the whole data is passed from computer to computer, bypassing 
+the save on the server, which promises completely 
+anonymous and destruction of information of chat.
