@@ -4,11 +4,11 @@ REQUIREMENTS DOCUMENT
 1 Introduction
 The name of this application - ChatClick. The project was created for communication between people. This product
 developed with JavaFX will be used to help communication between two or more persons.
-Also the project provides for the security of sobrannosti data. 
+Also the project provides for the security of your data. 
 1.1 Local specialty 
 In this chat the whole data
-passed from computer to computer, bypassing the save on the server. In order to start chatting
-you only need to run the application and in the line of widawati message. The most important thing, 
+passed from computer to computer, without the save on the server. In order to start chatting
+you only need to run the application and in the line enter your message. The most important thing, 
 that every attempt be written off is triggered only once, and no one but your 
 companion will not be able to read the dialogue
 because all messages are irretrievably deleted.
@@ -38,6 +38,6 @@ This project requires no extra costs. The application will have a size of up to 
 -read
 -write
 3.2.1 Usability:
-In this chat the whole data is passed from computer to computer, bypassing 
+In this chat the whole data is passed from computer to computer, without 
 the save on the server, which promises completely 
 anonymous and destruction of information of chat.
