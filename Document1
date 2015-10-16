@@ -17,22 +17,31 @@ because all messages are irretrievably deleted.
 This project in your work very easy for all types of user's. 
 You must just click on your place of text field and write a messages.
 2.1 Software Interfaces
-Web application on JavaFX for operation systems Windows, Linux.
+Web application on JavaFX for operation systems Windows, Linux. This application have very easy interface
+for people and everyone can use this product. Project consist from input and output messages in special field. 
+Your messages can view only people in chat for security information.This system interacts with the user 
+using the connection via the port and IP-address.
 
 2.2 User Interfaces
+All project realize for user's who want read and write messages from friend's. 
 This system interacts with the user using the connection via the port and IP-address.
+Client connect to server and program begin the work.
 
 2.3 User Characteristics
-Proposed audience, able to read and write. It's designed for custom applications, 
-and for office workers.
+Proposed audience, able to read and write. It's designed for custom applications
+and for office workers or difference people.
 
 2.4 Assumptions and Dependencies
-This project requires no extra costs. The application will have a size of up to 100Mb. 
+This project requires no extra costs. The application will have a size of up to 100Mb.
+Also must be server like connection for users.
 
 3 System Requirements 
-3.1 Functional Requirements 
-- OS Windows/Linux
-- 100MB of RAM
+3.1 Functional Requirements
+One of the user's must be server's for connection. Other users start to program and have acces to chat.
+You must have:
+- PC;
+- Server;
+- 100MB of RAM on PC.
 
 3.2 Non-Functional Requirements
 -read
