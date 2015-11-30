@@ -1,0 +1,52 @@
+Project "ChatClick v1.0"
+
+REQUIREMENTS DOCUMENT 
+1 Introduction
+The name of this application - ChatClick. The project was created for communication between people. This product
+developed with JavaFX will be used to help communication between two or more persons.
+Also the project provides for the security of your data. 
+1.1 Local specialty 
+In this chat the whole data
+passed from computer to computer, without the save on the server. In order to start chatting
+you only need to run the application and in the line enter your message. The most important thing, 
+that every attempt be written off is triggered only once, and no one but your 
+companion will not be able to read the dialogue
+because all messages are irretrievably deleted.
+
+2 User Requirements
+This project in your work very easy for all types of user's. 
+You must just click on your place of text field and write a messages.
+2.1 Software Interfaces
+Web application on JavaFX for operation systems Windows, Linux. This application have very easy interface
+for people and everyone can use this product. Project consist from input and output messages in special field. 
+Your messages can view only people in chat for security information.This system interacts with the user 
+using the connection via the port and IP-address.
+
+2.2 User Interfaces
+All project realize for user's who want read and write messages from friend's. 
+This system interacts with the user using the connection via the port and IP-address.
+Client connect to server and program begin the work.
+
+2.3 User Characteristics
+Proposed audience, able to read and write. It's designed for custom applications
+and for office workers or difference people.
+
+2.4 Assumptions and Dependencies
+This project requires no extra costs. The application will have a size of up to 100Mb.
+Also must be server like connection for users.
+
+3 System Requirements 
+3.1 Functional Requirements
+One of the user's must be server's for connection. Other users start to program and have acces to chat.
+You must have:
+- PC;
+- Server;
+- 100MB of RAM on PC.
+
+3.2 Non-Functional Requirements
+-read
+-write
+3.2.1 Usability:
+In this chat the whole data is passed from computer to computer, without 
+the save on the server, which promises completely 
+anonymous and destruction of information of chat.
