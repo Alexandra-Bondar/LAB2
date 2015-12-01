@@ -13,6 +13,8 @@ import javafx.stage.Stage;
 public class Main extends Application{
 
     // peremennaya zadauschaya server or client
+    // if you want create a connection you must write "false" becouse the programm for client and server not have difference.
+    // When ypu write for server connection - server get port and set ip for client
     private boolean isServer = true;
 
     //connect to server from client
