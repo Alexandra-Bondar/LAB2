@@ -74,7 +74,8 @@ public class Main extends Application{
         });
     }
 
-
+// the function for create client connection. It's connect to server . Client set ip to server and get port.
+// If server are there, client can be connection.
     private Client createClient() {
         return new Client("127.0.0.1", 55555, data -> {
             Platform.runLater(() -> {
